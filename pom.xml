@@ -11,7 +11,7 @@
 	<groupId>com.sb.helloworld</groupId>
 	<artifactId>first-sb-helloworld-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>first-sb-helloworld-example</name>
+	<name>first-sb-helloworld-example1</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
